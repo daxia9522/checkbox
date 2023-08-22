@@ -222,7 +222,4 @@ ql repo https://github.com/Wenmoux/checkbox.git "checkbox|install" "" "modules|s
 [@lepecoder](https://github.com/lepecoder/checkin)  
 [@zsakvo](https://github.com/zsakvo)  
 
-# 支持一下
-  ![支持一下](https://cdn.jsdelivr.net/gh/Wenmoux/wenpic/qrcode/wx_rewardqrcode.png)
-# 免责申明
-该项目仅供学习使用，严禁用于商业用途，由此造成的一切后果，本人概不负责。
+
